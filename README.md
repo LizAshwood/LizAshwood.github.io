@@ -7,7 +7,7 @@ Additional criterias that had to be met can be found here: [Task Objective and A
 ---
 ## How To Run
 The site is hosted on:
-> http://176.112.158.14:8086/login
+> LizAshwood.github.io
 
 1. Log-in using your 01-edu `email` or `username` & password.
 2. Site generates one time `JWT` token that is used to access your information from the api endpoint.
